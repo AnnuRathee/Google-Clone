@@ -1,0 +1,93 @@
+nav > a
+{
+    color: rgb(43, 42, 42);
+    text-decoration: none;
+    padding: 6rem 0.5rem;
+    font-size: 1rem;
+    font-weight: 500;    
+}
+a
+{
+    text-decoration: none;
+}
+#gmail
+{
+    margin-left: 68rem;
+}
+nav
+{
+    margin-top: 2rem;
+}
+h1::first-letter
+{
+    color: rgb(66,133,244);
+}
+h1
+{
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0r;
+}
+input
+{
+    margin: 0rem 25rem;
+    width: 35rem;
+    height: 2.3rem;
+    border-radius: 3rem;
+    box-shadow: 1px 1px 1px 1px rgb(190, 189, 189);
+    border: solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+   
+}
+.buttons
+{
+    text-align: center;
+    margin: 2rem 18rem;
+   
+}
+button
+{
+    width: 10rem;
+    height: 2.3rem;
+    border: 1rem;
+    background-color: rgb(245, 245, 245);
+    margin: 0 1rem;
+    padding: 0 15px;
+}
+p
+{
+    text-align: center;
+}
+img
+{
+    width: 2rem;
+}
+footer
+{
+    background-color: rgb(245, 245, 245);
+}
+footer > p
+{
+text-align: left;
+margin: 1rem;
+margin-top: 4rem;
+font-size: 1.2rem;
+color: grey;
+padding: 5px;
+}
+footer > a
+{
+    text-decoration: none;
+    font-size: 1rem;
+    color: grey;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+.business
+{
+    margin-right: 35rem;
+}
